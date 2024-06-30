@@ -2,7 +2,7 @@
 
 <br />
 
-- 🌱 I’m currently a student at **ICT College**
+<p align="center">- 🌱 I’m currently a student at **ICT College**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
